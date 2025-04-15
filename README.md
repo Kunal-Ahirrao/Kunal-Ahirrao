@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Kunal Ahirrao  
 🚀 Data Analyst | Applied Data Science @ Syracuse University | Python, ML, NLP | Automating BI with SQL & Cloud
+
 📍 Syracuse, NY | 💼 Open to Full-Time Roles
 
 ---
