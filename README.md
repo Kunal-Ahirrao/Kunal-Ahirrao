@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kunal Ahirrao  
-🚀 Data Analyst | Applied Data Science @ Syracuse University | Power BI & ML Enthusiast  
-📍 Syracuse, NY | 💼 Open to Summer Internships & Full-Time Roles
+🚀 Data Analyst | Applied Data Science @ Syracuse University | Python, ML, NLP | Automating BI with SQL & Cloud
+📍 Syracuse, NY | 💼 Open to Full-Time Roles
 
 ---
 
@@ -28,6 +28,19 @@ From forecasting energy usage across 5,000+ homes to predicting NYPD crime hotsp
 • Applied clustering and A/B testing to drive 18% more engagement in marketing
 
 ---
+### 🔍 What I Work On:
+
+🔢 **Data Engineering & Automation** – Building ETL pipelines and automating SQL workflows to streamline reporting and analytics.
+
+🧠 **Machine Learning & NLP** – Applying models like Logistic Regression, Random Forest, XGBoost, SVM, KNN, T5, and LegalBERT for prediction, classification, and text summarization tasks.
+
+📊 **Business Intelligence & Insights** – Designing Power BI & Tableau dashboards to translate data into executive-level decisions.
+
+🧰 **Cloud-Based Analytics** – Leveraging Azure and AWS for scalable data storage, transformation, and real-time analytics.
+
+📈 **Data Modeling & Visualization** – Turning raw data into compelling visuals and features using Python, Seaborn, and R Shiny.
+
+---
 
 ## 🧪 Projects
 
@@ -36,6 +49,12 @@ T5-based summarizer + fine-tuned LegalBERT for citation classification (69.85% a
 
 **🚨 NYPD Crime Prediction & Response Optimization**  
 Used KNN, Decision Tree & XGBoost to predict crime hotspots (84% accuracy)
+
+**📊 Airbnb Price Trends in NYC**  
+Analyzed 37K+ listings to uncover how location, room type, and availability affect pricing. Insights support host strategies and policy decisions.
+
+**🏠 Smart Home Automation System**  
+Designed a relational database system to automate device control, rule-based actions, and real-time notifications. Built SQL queries for energy tracking and rule logic.
 
 **⚡ Energy Demand Forecasting (Shiny App)**  
 Built a regression model & real-time app using R to help users reduce peak usage
